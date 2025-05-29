@@ -1,4 +1,4 @@
-the above file contains sql practise commands like 
+The above file contains sql practise commands like 
 
   1. DDL (Data Definition Language)
 These commands are used to define and manage database schema and structure.
@@ -46,6 +46,7 @@ SELECT – Already mentioned under DML, but in some classifications, it is consi
 
 
 4.JOINS operations on tables 
+
           a. INNER JOIN
              Returns only the matching rows from both tables.
              Non-matching rows are excluded.
